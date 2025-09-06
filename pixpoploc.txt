@@ -1,0 +1,4 @@
+location 
+torch-C:\Users\rrenu\AppData\Local\Programs\Python\Python312\Lib
+huggingface-C:\Users\rrenu\.cache\huggingface
+diffuser-Location: C:\Users\rrenu\AppData\Local\Programs\Python\Python312\Lib\site-packages
