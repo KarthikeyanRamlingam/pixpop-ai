@@ -1,0 +1,7 @@
+flask
+diffusers
+transformers
+torch
+accelerate
+safetensors
+huggingface_hub
