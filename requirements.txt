@@ -1,4 +1,5 @@
 flask
+gunicorn
 diffusers
 transformers
 torch
